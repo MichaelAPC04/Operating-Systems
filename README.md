@@ -1,2 +1,2 @@
 # Operating-Systems
-The following repository contains all lab assessment tasks required for this unit. Please consult the README.
+The following C program files explore the many different concepts of operating systems, from mutexes to system calls to race conditions and deadlocks to name a few.
